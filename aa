@@ -1,0 +1,97 @@
+Day 1
+Unit 1 : OSGi
+  OSGi Services Overview
+	Best practices for defining services
+	Selection of OSGi services
+	Service properties
+	Bndtools
+
+Unit 2 : Declarative OSGi Services
+	Required bundles
+	Definition of a DS service
+	Defining Auto-Start
+	Define a declarative OSGi Service
+	Using services via declarative services
+
+Unit 3 : OSGi Services low-level API
+	Using the service API
+	BundleContext
+	Registering services via API
+	Accessing a service via API
+	Problems with the low-level API
+	
+Day 2
+Unit 4 : Using the OSGi service API
+	Define the service interface
+	Create service
+	Install service bundles
+	Use your service
+	Use your service with a service tracker
+
+Unit 5 : Blueprint tutorial	
+	Introduction
+	The API, Server and Client projects
+	The Blueprint XML
+	The Java classes
+	Running the code
+		
+Unit 6 : Apache Aries
+	Aries Programming Model
+	Application introduction
+	Application module overview
+	Blueprint
+	Transactions
+	JPA
+	Pointers to OSGi specifications
+	Best design practices and pitfalls with OSGI model
+	OSGI technology comparison with conventional design models
+	
+Day 3
+Unit 7 : OSGi in WAS 8.5
+	Introducing WAS 8.5
+	OSGi Support in WAS 8.5
+	Tools for OSGi application development
+	Installing the server
+    Creating OSGi projects
+    EJB bundle (New in 8.5)
+	Example EJB bundle
+    Importing and configuring OSGi applications
+    Application level metadata and archive
+    Exporting OSGi applications
+    Converting existing projects to OSGi applications
+    Accessing data using Java Persistence API (JPA)
+    Deploying OSGi applications
+    Using independent Java archives (JARS) with OSGi applications
+    Managing extensions
+    Configuring OSGi bundle repositories
+    Automating the building of OSGi applications
+    Enhanced modular deployment process
+	Bundle repository for modular deployment
+	Isolated and shared bundles
+	Application extensions - from v8.0
+	OSGI application console (new in v8.5)
+	OSGI and SCA: The assembly food chain
+	Summary
+
+Day 4
+Unit 8 : Apache Camel
+	Apache Camel Overview
+	Routing
+	Beans
+	Error Handling
+	Testing
+	Components
+	Enterprise Integration Patterns
+	Concurrency
+	Running Camel
+	Deploying Camel
+	Managing and Monitoring Camel
+	
+Unit 9 : Web Services Security
+	SOAP - Document Style 
+	UDDI - Advanced Features 
+	Java API for XML-based RPC 
+	Web Services related JSRs 
+	Private and public UDDI registries 
+	Basic Security Concepts 
+	Securing Web Services - WS-Security
